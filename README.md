@@ -1,4 +1,4 @@
-# CustomHashMap
+# Custom Hash Table for Optimized String Lookup
 
 ## 🧠 Team Alias: Team Vision
 
